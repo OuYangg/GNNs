@@ -1,3 +1,10 @@
+
+# -*- coding: utf-8 -*-
+"""
+Created on Thu Apr 1 11:23:51 2022
+@author: Arvin Ou
+"""
+
 import math
 import time
 import numpy as np
